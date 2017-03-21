@@ -1,0 +1,58 @@
+#u173
+{
+	background-color: #E1E1DE;
+}
+
+#u650-4
+{
+	background-color: transparent;
+	text-align: right;
+	font-size: 42px;
+	line-height: 60px;
+	font-family: league-gothic, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u650-4 img {
+	width: 32px;
+}
+
+#u165-4,#u168-4,#u169-4,#u170-4,#u172-4
+{
+	background-color: transparent;
+	text-align: center;
+	font-size: 24px;
+	letter-spacing: 0px;
+	color: #000000;
+	line-height: 29px;
+	font-family: league-gothic, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u142
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #D8E028;
+}
+
+#u173_align_to_page,#u142_align_to_page
+{
+	position: relative;
+}
+
+#u187-4
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u175
+{
+	background-color: transparent;
+	position: relative;
+}
+

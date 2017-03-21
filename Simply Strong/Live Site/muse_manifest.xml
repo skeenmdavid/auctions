@@ -1,0 +1,177 @@
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1440712746510">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="master_a-master.css" crc="205915795" ref="newsletter-page:june-newsletters:index:may-newsletters:free-session-form"/>
+    <file name="newsletter-page.css" crc="4243247945" ref="newsletter-page"/>
+    <file name="june-newsletters.css" crc="3903761230" ref="june-newsletters"/>
+    <file name="index.css" crc="4141970574" ref="index"/>
+    <file name="iefonts_index.css" crc="210544057" ref="index"/>
+    <file name="may-newsletters.css" crc="406327349" ref="may-newsletters"/>
+    <file name="free-session-form.css" crc="371245026" ref="free-session-form"/>
+  </folder>
+  <folder name="assets">
+    <file name="freesessioncoupon.png" crc="4289144669" mt="1433285346000"/>
+    <file name="freesessioncoupon.psd" crc="4145090709" mt="1433285977000"/>
+    <file name="freesessioncoupon.pdf" crc="505420300" mt="1433286357000"/>
+    <file name="may-8.pdf" crc="425596146" mt="1434491035000"/>
+    <file name="may-15.pdf" crc="50353218" mt="1434491037000"/>
+    <file name="may-22.pdf" crc="3831381306" mt="1434491038000"/>
+    <file name="may-29.pdf" crc="382373980" mt="1434491040000"/>
+    <file name="june-5.pdf" crc="3991999659" mt="1434491041000"/>
+    <file name="june-12.pdf" crc="4278260576" mt="1434491043000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="phone>index:phone>free-session-form:phone>newsletter-page:phone>may:phone>june:phone>about-us:phone>success-stories:phone>resources:phone>contact:tablet>index:tablet>free-session-form:tablet>newsletter-page:tablet>may:tablet>june:index:free-session-form:newsletter-page:may-newsletters:june-newsletters"/>
+    <file name="museutils.js" crc="521960461" ref="phone>index:phone>free-session-form:phone>newsletter-page:phone>may:phone>june:phone>about-us:phone>success-stories:phone>resources:phone>contact:tablet>index:tablet>free-session-form:tablet>newsletter-page:tablet>may:tablet>june:index:free-session-form:newsletter-page:may-newsletters:june-newsletters"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:tablet>index"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="phone>index:phone>free-session-form:phone>newsletter-page:phone>may:phone>june:phone>about-us:phone>success-stories:phone>resources:phone>contact"/>
+    <file name="webpro.js" crc="220831917" ref="phone>index:phone>free-session-form:phone>newsletter-page:phone>may:phone>june:phone>about-us:phone>success-stories:phone>resources:phone>contact:tablet>index:tablet>free-session-form:index:free-session-form"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="phone>index:phone>free-session-form:phone>newsletter-page:phone>may:phone>june:phone>about-us:phone>success-stories:phone>resources:phone>contact:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="phone>index:phone>free-session-form:phone>newsletter-page:phone>may:phone>june:phone>about-us:phone>success-stories:phone>resources:phone>contact:tablet>index:index"/>
+    <file name="touchswipe.js" crc="325405309" ref="phone>index:phone>free-session-form:phone>newsletter-page:phone>may:phone>june:phone>about-us:phone>success-stories:phone>resources:phone>contact:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="56779320" ref="phone>index:phone>free-session-form:phone>newsletter-page:phone>may:phone>june:phone>about-us:phone>success-stories:phone>resources:phone>contact:tablet>index:tablet>free-session-form:tablet>newsletter-page:tablet>may:tablet>june:index:free-session-form:newsletter-page:may-newsletters:june-newsletters"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>free-session-form:phone>newsletter-page:phone>may:phone>june:phone>about-us:phone>success-stories:phone>resources:phone>contact:tablet>index:tablet>free-session-form:tablet>newsletter-page:tablet>may:tablet>june:index:free-session-form:newsletter-page:may-newsletters:june-newsletters"/>
+    <file name="form_check.php" crc="218543696" ref="phone>free-session-form:phone>contact:tablet>index:tablet>free-session-form:index:free-session-form"/>
+    <file name="form_throttle.php" crc="3988545917" ref="phone>free-session-form:phone>contact:tablet>index:tablet>free-session-form:index:free-session-form"/>
+    <file name="form_process.php" crc="4264751530" ref="phone>free-session-form:phone>contact:tablet>index:tablet>free-session-form:index:free-session-form"/>
+    <file name="form-u2394.php" crc="4212925500" ref="phone>free-session-form"/>
+    <file name="form-u2333.php" crc="202475264" ref="phone>contact"/>
+    <file name="museredirect.js" crc="4117159434" ref="tablet>index:tablet>free-session-form:tablet>newsletter-page:tablet>may:tablet>june:index:free-session-form:newsletter-page"/>
+    <file name="jquery.scrolleffects.js" crc="4038615763" ref="tablet>index:index"/>
+    <file name="form-u1330.php" crc="4277328959" ref="tablet>index"/>
+    <file name="form-u1392.php" crc="3844117819" ref="tablet>free-session-form"/>
+    <file name="form-u544.php" crc="236654118" ref="index"/>
+    <file name="form-u390.php" crc="444629647" ref="free-session-form"/>
+  </folder>
+  <folder name="images">
+    <file name="u1877-4.png" crc="4180419969" ref="phone>index:phone>free-session-form:phone>newsletter-page:phone>may:phone>june:phone>about-us:phone>success-stories:phone>resources:phone>contact"/>
+    <file name="ss logo292x69.png" crc="167600619" ref="phone>index"/>
+    <file name="fieldlady-mobile.png" crc="4010555198" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="swinglady-mobile.png" crc="31770618" ref="phone>index"/>
+    <file name="riverman-mobile.png" crc="83896967" ref="phone>index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
+    <file name="free-session-button.png" crc="4022787809" ref="phone>index:phone>about-us:phone>success-stories:tablet>index:index"/>
+    <file name="u2395-17.png" crc="409588407" ref="phone>free-session-form"/>
+    <file name="u2395-17-r.png" crc="3879996821" ref="phone>free-session-form"/>
+    <file name="u2395-17-m.png" crc="170270533" ref="phone>free-session-form"/>
+    <file name="u2395-17-fs.png" crc="330888245" ref="phone>free-session-form"/>
+    <file name="watch video-crop-u2227.png" crc="57823884" ref="phone>about-us"/>
+    <file name="edpic164x182.png" crc="3783167301" ref="phone>about-us"/>
+    <file name="girl-pic.png" crc="355566206" ref="phone>about-us:tablet>index"/>
+    <file name="shelli.png" crc="458820543" ref="phone>success-stories:tablet>index:index"/>
+    <file name="shawn150x179.png" crc="6067210" ref="phone>success-stories"/>
+    <file name="drsmith.png" crc="79919970" ref="phone>success-stories:tablet>index:index"/>
+    <file name="larry149x200.png" crc="469963281" ref="phone>success-stories"/>
+    <file name="testimonial-lady156x210.png" crc="159771079" ref="phone>success-stories"/>
+    <file name="u2349-17.png" crc="171263559" ref="phone>contact"/>
+    <file name="u2349-17-r.png" crc="532227283" ref="phone>contact"/>
+    <file name="u2349-17-m.png" crc="3978333649" ref="phone>contact"/>
+    <file name="u2349-17-fs.png" crc="7639917" ref="phone>contact"/>
+    <file name="u1797-4.png" crc="116316269" ref="tablet>index:tablet>free-session-form:tablet>newsletter-page:tablet>may:tablet>june"/>
+    <file name="ss logo341x81.png" crc="325654845" ref="tablet>index"/>
+    <file name="slider1.png" crc="4086262167" ref="tablet>index"/>
+    <file name="slider3.jpg" crc="131902325" ref="tablet>index"/>
+    <file name="slider2.png" crc="414740391" ref="tablet>index"/>
+    <file name="ss logo223x54.png" crc="3863691149" ref="tablet>index"/>
+    <file name="ss-sitting-lady405x577.png" crc="172388021" ref="tablet>index"/>
+    <file name="edpic.png" crc="4270061018" ref="tablet>index:index"/>
+    <file name="watch video-crop-u1186.png" crc="347172503" ref="tablet>index"/>
+    <file name="mag289x320.png" crc="203963662" ref="tablet>index"/>
+    <file name="shawn.png" crc="517104597" ref="tablet>index:index"/>
+    <file name="doris.png" crc="364933070" ref="tablet>index:index"/>
+    <file name="larry.png" crc="4134549075" ref="tablet>index:index"/>
+    <file name="testimonial-lady.png" crc="48810742" ref="tablet>index:index"/>
+    <file name="u1331-17.png" crc="171263559" ref="tablet>index"/>
+    <file name="u1331-17-r.png" crc="532227283" ref="tablet>index"/>
+    <file name="u1331-17-m.png" crc="3978333649" ref="tablet>index"/>
+    <file name="u1331-17-fs.png" crc="7639917" ref="tablet>index"/>
+    <file name="ss-contact-photos.png" crc="174827658" ref="tablet>index:index"/>
+    <file name="u1408-17.png" crc="409588407" ref="tablet>free-session-form"/>
+    <file name="u1408-17-r.png" crc="3879996821" ref="tablet>free-session-form"/>
+    <file name="u1408-17-m.png" crc="170270533" ref="tablet>free-session-form"/>
+    <file name="u1408-17-fs.png" crc="330888245" ref="tablet>free-session-form"/>
+    <file name="lady-weights.png" crc="4236078991" ref="tablet>free-session-form:free-session-form"/>
+    <file name="u187-4.png" crc="285145890" ref="index:free-session-form:newsletter-page:may-newsletters:june-newsletters"/>
+    <file name="ss logo.png" crc="56723735" ref="index:free-session-form:newsletter-page:may-newsletters:june-newsletters"/>
+    <file name="ladysmiling.png" crc="4116022946" ref="index"/>
+    <file name="maninboat.jpg" crc="3976885899" ref="index"/>
+    <file name="womenswinging.png" crc="444916781" ref="index"/>
+    <file name="ss-sitting-lady.png" crc="252647598" ref="index"/>
+    <file name="atiecollins.png" crc="4153909215" ref="index"/>
+    <file name="watch video.png" crc="195683979" ref="index"/>
+    <file name="mag.png" crc="3827067861" ref="index"/>
+    <file name="u540-4.png" crc="4052749625" ref="index"/>
+    <file name="u541-4.png" crc="491637740" ref="index"/>
+    <file name="u542-4.png" crc="3966737818" ref="index"/>
+    <file name="u543-4.png" crc="3995062077" ref="index"/>
+    <file name="u554.png" crc="142309374" ref="index"/>
+    <file name="u554-ferr.png" crc="516660161" ref="index"/>
+    <file name="u556.png" crc="4165109868" ref="index"/>
+    <file name="u556-ferr.png" crc="186719620" ref="index"/>
+    <file name="u550-17.png" crc="168441100" ref="index"/>
+    <file name="u550-17-r.png" crc="4031606998" ref="index"/>
+    <file name="u550-17-m.png" crc="3942970917" ref="index"/>
+    <file name="u550-17-fs.png" crc="4109459617" ref="index"/>
+    <file name="u548.png" crc="309753344" ref="index"/>
+    <file name="u548-ferr.png" crc="4049713074" ref="index"/>
+    <file name="u566.png" crc="82270603" ref="index"/>
+    <file name="u566-ferr.png" crc="326423559" ref="index"/>
+    <file name="u396-17.png" crc="4156256192" ref="free-session-form"/>
+    <file name="u396-17-r.png" crc="4241337646" ref="free-session-form"/>
+    <file name="u396-17-m.png" crc="3834828744" ref="free-session-form"/>
+    <file name="u396-17-fs.png" crc="4171215615" ref="free-session-form"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="392887511" ref="tablet>free-session-form:tablet>index:tablet>may:tablet>june:tablet>newsletter-page"/>
+      <file name="free-session-form.css" crc="4040340222" ref="tablet>free-session-form"/>
+      <file name="index.css" crc="94797162" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="199175497" ref="tablet>index"/>
+      <file name="may.css" crc="4092839728" ref="tablet>may"/>
+      <file name="june.css" crc="4019453076" ref="tablet>june"/>
+      <file name="newsletter-page.css" crc="132444644" ref="tablet>newsletter-page"/>
+    </folder>
+    <file name="index.html" crc="3758531315" mt="1436569058053" redirect="true"/>
+    <file name="free-session-form.html" crc="3869277453" mt="1436570121544" redirect="true"/>
+    <file name="newsletter-page.html" crc="213521298" mt="1435075279665" redirect="true"/>
+    <file name="may.html" crc="41336758" mt="1435075279702" redirect="true"/>
+    <file name="june.html" crc="4046059444" mt="1435075279716" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3891822628" ref="phone>contact:phone>free-session-form:phone>resources:phone>success-stories:phone>about-us:phone>index:phone>june:phone>may:phone>newsletter-page"/>
+      <file name="contact.css" crc="3909508046" ref="phone>contact"/>
+      <file name="iefonts_contact.css" crc="3963077999" ref="phone>contact"/>
+      <file name="free-session-form.css" crc="186429685" ref="phone>free-session-form"/>
+      <file name="iefonts_free-session-form.css" crc="4237991025" ref="phone>free-session-form"/>
+      <file name="resources.css" crc="401484515" ref="phone>resources"/>
+      <file name="iefonts_resources.css" crc="434610926" ref="phone>resources"/>
+      <file name="success-stories.css" crc="308804534" ref="phone>success-stories"/>
+      <file name="iefonts_success-stories.css" crc="486950715" ref="phone>success-stories"/>
+      <file name="about-us.css" crc="454876656" ref="phone>about-us"/>
+      <file name="iefonts_about-us.css" crc="357945473" ref="phone>about-us"/>
+      <file name="index.css" crc="239257224" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3837597020" ref="phone>index"/>
+      <file name="june.css" crc="357301973" ref="phone>june"/>
+      <file name="iefonts_june.css" crc="154946751" ref="phone>june"/>
+      <file name="may.css" crc="195736589" ref="phone>may"/>
+      <file name="iefonts_may.css" crc="4055769709" ref="phone>may"/>
+      <file name="newsletter-page.css" crc="324024686" ref="phone>newsletter-page"/>
+    </folder>
+    <file name="index.html" crc="3824669655" mt="1435096262443" redirect="true"/>
+    <file name="free-session-form.html" crc="148922209" mt="1436570068226" redirect="true"/>
+    <file name="newsletter-page.html" crc="404878490" mt="1435093288829" redirect="true"/>
+    <file name="may.html" crc="55896089" mt="1435093478585" redirect="true"/>
+    <file name="june.html" crc="3782210342" mt="1435093658521" redirect="true"/>
+    <file name="about-us.html" crc="3892427069" mt="1435096288479" redirect="true"/>
+    <file name="success-stories.html" crc="271843376" mt="1435096514609" redirect="true"/>
+    <file name="resources.html" crc="281388981" mt="1435097088440" redirect="true"/>
+    <file name="contact.html" crc="488147295" mt="1436569189164" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="505135248" mt="1440712575567" redirect="true"/>
+  <file name="free-session-form.html" crc="3834649436" mt="1436568800886" redirect="true"/>
+  <file name="newsletter-page.html" crc="3874998030" mt="1435075279747" redirect="true"/>
+  <file name="may-newsletters.html" crc="3901022107" mt="1434662184105" redirect="true"/>
+  <file name="june-newsletters.html" crc="4267613996" mt="1434662204646" redirect="true"/>
+</manifest>

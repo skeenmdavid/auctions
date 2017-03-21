@@ -1,0 +1,56 @@
+#u1045
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #D8E028;
+}
+
+#u1797-4
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u1073-4,#u1074-4,#u1075-4,#u1076-4,#u1077-4
+{
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	letter-spacing: 0px;
+	color: #000000;
+	line-height: 22px;
+	font-family: league-gothic, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1080-4
+{
+	background-color: transparent;
+	font-size: 15px;
+	line-height: 18px;
+	font-family: Futura Condensed Medium;
+	position: relative;
+}
+
+#u1080-2
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1080
+{
+	font-size: 18px;
+	color: #000000;
+	font-family: league-gothic, sans-serif;
+	font-weight: 400;
+	line-height: 22px;
+}
+
+#u1078
+{
+	background-color: transparent;
+	position: relative;
+}
+

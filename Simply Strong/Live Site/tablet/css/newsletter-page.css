@@ -1,0 +1,198 @@
+.version.newsletter_page /* version checker */
+{
+	color: #000007;
+	background-color: #E4F1E4;
+}
+
+@-ms-viewport
+{
+	width: 768px;
+}
+
+@-webkit-viewport
+{
+	width: 768px;
+}
+
+@-o-viewport
+{
+	width: 768px;
+}
+
+@-moz-viewport
+{
+	width: 768px;
+}
+
+@viewport
+{
+	width: 768px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 768px;
+	min-height: 1002.9831920903955px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-top: 21px;
+	padding-bottom: 0px;
+}
+
+#pu1045
+{
+	width: 0.01px;
+}
+
+#u1045
+{
+	z-index: 2;
+	min-height: 18px;
+	padding-bottom: 4px;
+}
+
+#u1797-4
+{
+	z-index: 3;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 94px;
+}
+
+#u1045-bw
+{
+	z-index: 2;
+	min-height: 18px;
+	margin-top: 58px;
+}
+
+#u1073-4
+{
+	z-index: 14;
+	width: 29px;
+	min-height: 18px;
+	margin-right: -10000px;
+	margin-top: 39px;
+	left: 374px;
+}
+
+#u1074-4
+{
+	z-index: 18;
+	width: 51px;
+	min-height: 18px;
+	margin-right: -10000px;
+	margin-top: 39px;
+	left: 410px;
+}
+
+#u1075-4
+{
+	z-index: 22;
+	width: 86px;
+	min-height: 17px;
+	margin-right: -10000px;
+	margin-top: 39px;
+	left: 469px;
+}
+
+#u1076-4
+{
+	z-index: 26;
+	width: 56px;
+	min-height: 16px;
+	margin-right: -10000px;
+	margin-top: 39px;
+	left: 563px;
+}
+
+#u1077-4
+{
+	z-index: 30;
+	width: 44px;
+	min-height: 14px;
+	margin-right: -10000px;
+	margin-top: 39px;
+	left: 627px;
+}
+
+#u1080-4
+{
+	z-index: 34;
+	width: 66px;
+	min-height: 15px;
+	margin-right: -10000px;
+	margin-top: 39px;
+	left: 680px;
+}
+
+#u1078
+{
+	z-index: 38;
+	width: 341px;
+	margin-right: -10000px;
+	left: 20px;
+}
+
+#u1279-6
+{
+	z-index: 7;
+	width: 588px;
+	min-height: 141px;
+	background-color: transparent;
+	text-align: center;
+	font-family: league-gothic, sans-serif;
+	font-weight: 400;
+	margin-left: 90px;
+	margin-top: 117px;
+	position: relative;
+}
+
+#u1279-2
+{
+	font-size: 48px;
+	line-height: 42px;
+	color: #EF4036;
+}
+
+#u1279-4
+{
+	font-size: 165px;
+	line-height: 144px;
+	letter-spacing: -3px;
+	color: #8A8A8A;
+}
+
+#u1442
+{
+	z-index: 13;
+	height: 64px;
+	background-color: #D8E028;
+}
+
+#u1442-bw
+{
+	z-index: 13;
+	margin-top: 556px;
+	height: 64px;
+}
+
+body
+{
+	position: relative;
+	min-width: 768px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

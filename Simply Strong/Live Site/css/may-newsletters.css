@@ -1,0 +1,318 @@
+.version.may_newsletters /* version checker */
+{
+	color: #000018;
+	background-color: #381035;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 499.5000000000007px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -36px;
+	margin-bottom: -35px;
+	width: 0.01px;
+}
+
+#pu173
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
+#u165-4
+{
+	z-index: 3;
+	width: 40px;
+	min-height: 20px;
+	margin-bottom: -3px;
+	margin-right: -10000px;
+	margin-top: 113px;
+	left: 725px;
+}
+
+#u168-4
+{
+	z-index: 7;
+	width: 65px;
+	min-height: 21px;
+	margin-bottom: -3px;
+	margin-right: -10000px;
+	margin-top: 113px;
+	left: 772px;
+}
+
+#pu650-4
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin: 40px -10000px -3px 844px;
+}
+
+#u650-4
+{
+	z-index: 30;
+	width: 208px;
+	min-height: 39px;
+	margin-left: 60px;
+}
+
+#pu169-4
+{
+	width: 0.01px;
+	margin-top: 13px;
+}
+
+#u169-4
+{
+	z-index: 11;
+	width: 116px;
+	min-height: 20px;
+	margin-right: -10000px;
+}
+
+#u170-4
+{
+	z-index: 15;
+	width: 76px;
+	min-height: 20px;
+	margin-right: -10000px;
+	left: 123px;
+}
+
+#u172-4
+{
+	z-index: 19;
+	width: 60px;
+	min-height: 20px;
+	margin-right: -10000px;
+	left: 208px;
+}
+
+#u173,#u173-bw
+{
+	z-index: 2;
+	min-height: 139px;
+}
+
+#u142
+{
+	z-index: 23;
+	min-height: 37px;
+}
+
+#u173_align_to_page,#u142_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	left: -100px;
+}
+
+#u187-4
+{
+	z-index: 24;
+	margin-bottom: -6px;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 215px;
+}
+
+#u142-bw
+{
+	z-index: 23;
+	min-height: 37px;
+	margin-top: 139px;
+}
+
+#u175
+{
+	z-index: 28;
+	width: 636px;
+	margin-right: -10000px;
+	margin-top: 29px;
+	left: 67px;
+}
+
+#pu1706-8
+{
+	width: 0.01px;
+	margin-top: 48px;
+}
+
+#u1706-8
+{
+	z-index: 34;
+	width: 307px;
+	min-height: 53px;
+	background-color: transparent;
+	color: #A0A0A0;
+	text-transform: uppercase;
+	font-size: 53px;
+	line-height: 64px;
+	font-family: league-gothic, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1706-2
+{
+	letter-spacing: -1px;
+}
+
+#u1706-4
+{
+	letter-spacing: 1px;
+}
+
+#u1711
+{
+	z-index: 58;
+	width: 960px;
+	height: 2px;
+	background-color: #A0A0A0;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 55px;
+}
+
+#pu1707-4
+{
+	width: 0.01px;
+	margin-top: 36px;
+}
+
+#u1707-4
+{
+	z-index: 42;
+	width: 201px;
+	min-height: 39px;
+	background-color: transparent;
+	color: #7F7F7F;
+	text-align: left;
+	font-size: 36px;
+	line-height: 43px;
+	font-family: pt-sans-narrow, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1712-4
+{
+	z-index: 46;
+	width: 211px;
+	min-height: 39px;
+	background-color: transparent;
+	color: #7F7F7F;
+	text-align: left;
+	font-size: 36px;
+	line-height: 43px;
+	font-family: pt-sans-narrow, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 254px;
+}
+
+#u1713-4
+{
+	z-index: 50;
+	width: 213px;
+	min-height: 39px;
+	background-color: transparent;
+	color: #7F7F7F;
+	text-align: left;
+	font-size: 36px;
+	line-height: 43px;
+	font-family: pt-sans-narrow, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 522px;
+}
+
+#u1714-4
+{
+	z-index: 54;
+	width: 199px;
+	min-height: 39px;
+	background-color: transparent;
+	color: #7F7F7F;
+	text-align: left;
+	font-size: 36px;
+	line-height: 43px;
+	font-family: pt-sans-narrow, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 789px;
+}
+
+#u1707,#u1712,#u1713,#u1714
+{
+	text-decoration: underline;
+}
+
+#u1716
+{
+	z-index: 60;
+	width: 920px;
+	height: 255px;
+	margin-left: 20px;
+	margin-top: 32px;
+	position: relative;
+}
+
+.ie #u1716
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u1715
+{
+	z-index: 59;
+	height: 66px;
+	background-color: #D8E028;
+}
+
+#u1715-bw
+{
+	z-index: 59;
+	margin-top: 31px;
+	height: 66px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
